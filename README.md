@@ -5,7 +5,7 @@ Simple loading with HTML and CSS only
 Clone this project
 
 #### Step 2:
-Run npm install
+Install Dependencies: npm install --global yo gulp-cli bower generator-webapp
 
 #### Step 3: 
 Run Project: gulp serve
